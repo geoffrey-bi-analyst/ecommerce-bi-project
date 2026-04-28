@@ -1,0 +1,2 @@
+SELECT SUM(revenue) AS total_revenue
+FROM `ecommerce-bi-project-494113.olist\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\_data.analytics\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\_view`;

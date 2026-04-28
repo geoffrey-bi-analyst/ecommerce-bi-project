@@ -1,0 +1,3 @@
+SELECT
+  SUM(revenue) / COUNT(DISTINCT order_id) AS avg_order_value
+FROM `ecommerce-bi-project-494113.olist\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\_data.analytics\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\_view`;

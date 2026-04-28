@@ -1,0 +1,2 @@
+SELECT COUNT(DISTINCT customer_unique_id) AS total_customers
+FROM `ecommerce-bi-project-494113.olist\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\_data.analytics\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\_view`;
